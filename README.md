@@ -7,7 +7,7 @@ Build and Run
 -------------
 
 1. Install Microsoft Visual Studio.
-2. Install CUDA Toolkit (Nvidea GPU with CUDA-support required)
+2. Install CUDA Toolkit (Nvidea GPU with CUDA-support required).
 3. Make new CUDA-project.
 4. Enjoy.
 
