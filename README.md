@@ -17,10 +17,14 @@ Build and Run
 |-------|---------|
 | CPU  | Intel® Pentium® G860 |
 | RAM  | 6 GB DDR3 |
-| GPU  | GeForce GTX 750 Ti 2GB |
+| GPU  | GeForce GTX 750 Ti 2GB | (overclocking)
 | OS   | Windows 10 64-bit  |
 
 ## Results
+
+<img src="DOC/NoiseAngelina.jpg" width="202.33" height="360" /> | <img src="https://github.com/VladislavPVI/Play-English/blob/master/docs/level%201.jpg" width="202.33" height="360" /> | <img src="https://github.com/VladislavPVI/Play-English/blob/master/docs/level%202.jpg" width="202.33" height="360" />
+------------ | ------------- | -------------
+Distorted image (noise 8%) | Filtered image (CPU) | Filtered image (GPU)
 
 Average results after 100 times of runs. Matrix elements type is integer.
 
