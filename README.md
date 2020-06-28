@@ -22,10 +22,6 @@ Build and Run
 
 ## Results
 
-<img src="DOC/NoiseAngelina.jpg" width="202.33" height="360" /> | <img src="https://github.com/VladislavPVI/Play-English/blob/master/docs/level%201.jpg" width="202.33" height="360" /> | <img src="https://github.com/VladislavPVI/Play-English/blob/master/docs/level%202.jpg" width="202.33" height="360" />
------------- | ------------- | -------------
-Distorted image (noise 8%) | Filtered image (CPU) | Filtered image (GPU)
-
 Average results after 100 times of runs. Matrix elements type is integer.
 
 |    Size     |          CPU        |         GPU       | Acceleration |
